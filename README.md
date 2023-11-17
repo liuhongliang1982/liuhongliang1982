@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liuhongliang1982
-- 👀 I’m interested in data science
+- 👀 I’m interested in data science and AI
 - 🌱 I’m currently learning Python and Statistics
-- 💞️ I’m looking to collaborate on data security and web establish
+- 💞️ I’m looking to collaborate on data security and web establish,maybe later on AI
 - 📫 How to reach me goethebachkant@gmail.com
 
 <!---
